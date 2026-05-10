@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+main.py
+# ignore files
+*.docx
+*.pptx
+*.zip
+# Virtual environments
+.venv
